@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Marcus Moraes</h1>
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Native mobile app development**
 
 - 👯 I’m looking to collaborate on **open source**
 
